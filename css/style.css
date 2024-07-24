@@ -25,3 +25,8 @@ header {
     min-height: 500px;
     background-color: gray;
 }
+
+footer {
+    min-height: 500px;
+    background-color: plum;
+}
