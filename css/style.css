@@ -15,3 +15,8 @@ header {
     min-height: 500px;
     background-color: gray;
 }
+
+#about {
+    min-height: 500px;
+    background-color: aquamarine;
+}
