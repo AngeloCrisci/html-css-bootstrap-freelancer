@@ -1,0 +1,7 @@
+header {
+    height: 80px;
+}
+
+.borders {
+    border: 1px dashed black;
+}
