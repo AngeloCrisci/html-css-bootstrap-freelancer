@@ -10,3 +10,8 @@ header {
     height: 500px;
     background-color: aquamarine;
 }
+
+#portfolio {
+    min-height: 500px;
+    background-color: gray;
+}
