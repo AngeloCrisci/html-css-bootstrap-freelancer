@@ -5,3 +5,8 @@ header {
 .borders {
     border: 1px dashed black;
 }
+
+#jumbotron {
+    height: 500px;
+    background-color: aquamarine;
+}
