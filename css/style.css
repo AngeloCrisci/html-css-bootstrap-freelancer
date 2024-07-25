@@ -2,18 +2,13 @@ header {
     height: 70px;
 }
 
-.borders {
-    border: 1px dashed black;
-}
-
 #jumbotron {
     min-height: 500px;
-    background-color: aquamarine;
+    background-color: #1ABC9C;
 }
 
 #portfolio {
-    min-height: 500px;
-    background-color: gray;
+    margin-top: 3rem;
 }
 
 #about {
@@ -23,7 +18,6 @@ header {
 
 #contact {
     min-height: 500px;
-    background-color: gray;
 }
 
 footer {
@@ -41,5 +35,14 @@ img {
 }
 
 .img-jumbotron {
-    max-height: 100px;
+    max-width: 250px;
+    margin: 0 auto;
+}
+
+.bars-height {
+    height: 5px;
+}
+
+.bars-width {
+    width: 250px;
 }
