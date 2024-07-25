@@ -1,5 +1,5 @@
 header {
-    height: 80px;
+    height: 70px;
 }
 
 .borders {
@@ -7,7 +7,7 @@ header {
 }
 
 #jumbotron {
-    height: 500px;
+    min-height: 500px;
     background-color: aquamarine;
 }
 
@@ -29,4 +29,17 @@ header {
 footer {
     min-height: 500px;
     background-color: plum;
+}
+
+.bg-dark-header {
+    background-color: #2C3E50;
+}
+
+img {
+    width: 100%;
+    display: block;
+}
+
+.img-jumbotron {
+    max-height: 100px;
 }
